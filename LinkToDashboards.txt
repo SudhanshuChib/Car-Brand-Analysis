@@ -1,3 +1,5 @@
 Brands Crosstab: https://public.tableau.com/profile/sudhanshu.chib8525#!/vizhome/CarBrandsCrosstab/Crosstab
 
+Brands Revised Crosstab: https://public.tableau.com/profile/sudhanshu.chib8525#!/vizhome/CarBrandsCrosstab_Revised/Crosstab1?publish=yes
+
 Used Cards Dashboard: https://public.tableau.com/profile/sudhanshu.chib8525#!/vizhome/UsedCars_2/Dashboard1?publish=yes
