@@ -1,7 +1,7 @@
- 	The project aims to evaluate used car price listing using to identify car brands that are most resilient to depreciation.
-  Data is captured from eBay using web scrapping and results are presented using Tableau dashboard. 
+ The project aims to evaluate used car price listing using to identify car brands that are most resilient to depreciation.
+ Data is captured from eBay using web scrapping and results are presented using Tableau dashboard. 
   
-  This repo contains the following files:
+ This repo contains the following files:
 	
 	Python script for code: Revised_Car_Brand_Analysis_Script.ipynb
 	Python script for web scrapping: eBay_ScrapingScript.ipynb
